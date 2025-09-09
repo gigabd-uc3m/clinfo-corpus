@@ -1,15 +1,15 @@
 # clinfo-corpus
 La finalidad de este documento es facilitar el mantenimiento conjunto del repositorio GitHub y de la carpeta en Google Drive, hemos definido un estándar común de almacenamiento y nombrado de los corpus y sus metadatos.
 
-**1. Estructura básica** \n
-Cada corpus debe almacenarse en una carpeta independiente. Dentro de esa carpeta habrá siempre:
- I) El fichero de texto con el contenido del corpus.
- II) El fichero README con los metadatos del corpus.
-Un ejemplo de cómo quedaría el repositorio sería:
-  .
-  └── 2024-legal-funcionarios-ocr-boe
-            ├── 2024-legal-funcionarios-ocr-boe.txt
-            └── README.txt
+**1. Estructura básica**  
+Cada corpus debe almacenarse en una carpeta independiente. Dentro de esa carpeta habrá siempre:  
+ I) El fichero de texto con el contenido del corpus.  
+ II) El fichero README con los metadatos del corpus.  
+Un ejemplo de cómo quedaría el repositorio sería:  
+  .  
+  └── 2024-legal-funcionarios-ocr-boe  
+            ├── 2024-legal-funcionarios-ocr-boe.txt  
+            └── README.txt  
 
 
 **2. Nombre de carpeta y ficheros**
