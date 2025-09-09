@@ -8,8 +8,8 @@ Cada corpus debe almacenarse en una carpeta independiente. Dentro de esa carpeta
 Un ejemplo de cómo quedaría el repositorio sería:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;└── 2024-legal-funcionarios-ocr-boe<br>
-&nbsp;&nbsp;&nbsp;&nbsp;        ├── 2024-legal-funcionarios-ocr-boe.txt<br>
-&nbsp;&nbsp;&nbsp;&nbsp;        └── README.txt<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── 2024-legal-funcionarios-ocr-boe.txt<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── README.txt<br>
 
 
 **2. Nombre de carpeta y ficheros**<br>
@@ -21,11 +21,11 @@ Un ejemplo de cómo quedaría el repositorio sería:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;├── 2001-social-no_nativos-chat-foro_inmigracion<br>
 &nbsp;&nbsp;&nbsp;&nbsp;├── 2005-educacion-estudiantes-paralelo-webapp<br>
 &nbsp;&nbsp;&nbsp;&nbsp;├── 2024-legal-funcionarios-ocr-boe<br>
-&nbsp;&nbsp;&nbsp;&nbsp;│         ├── 2024-legal-funcionarios-ocr-boe.txt<br>
-&nbsp;&nbsp;&nbsp;&nbsp;│         └── README.txt<br>
+&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 2024-legal-funcionarios-ocr-boe.txt<br>
+&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └── README.txt<br>
 &nbsp;&nbsp;&nbsp;&nbsp;└── 2025-salud-adultos_mayores-monolingue-ministerio<br>
-&nbsp;&nbsp;&nbsp;&nbsp;          ├── 2025-salud-adultos_mayores-monolingue-ministerio.txt<br>
-&nbsp;&nbsp;&nbsp;&nbsp;          └── README.txt<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ├── 2025-salud-adultos_mayores-monolingue-ministerio.txt<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  └── README.txt<br>
 <br>
 
 <br>
