@@ -28,8 +28,7 @@ Un ejemplo de cómo quedaría el repositorio sería:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  └── README.txt<br>
 <br>
 
-**3. Fichero de metadatos (README.txt)**<br>
-<br>
+**3. Fichero de metadatos (README.txt)**  
 Dentro de cada carpeta se incluirá siempre un README.txt en texto plano. La idea es que este archivo documente los metadatos esenciales para facilitar el registro, seguimiento y reutilización del corpus.<br>
 Los campos obligatorios son:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;**1º) Origen** – Fuente o procedencia del corpus.<br>
