@@ -6,10 +6,10 @@ Cada corpus debe almacenarse en una carpeta independiente. Dentro de esa carpeta
  I) El fichero de texto con el contenido del corpus.<br>
  II) El fichero README con los metadatos del corpus.<br>
 Un ejemplo de cómo quedaría el repositorio sería:<br>
-&nbsp;.<br>
-&nbsp;└── 2024-legal-funcionarios-ocr-boe<br>
-        &nbsp;├── 2024-legal-funcionarios-ocr-boe.txt<br>
-        &nbsp;└── README.txt<br>
+    .<br>
+    └── 2024-legal-funcionarios-ocr-boe<br>
+            ├── 2024-legal-funcionarios-ocr-boe.txt<br>
+            └── README.txt<br>
 
 
 **2. Nombre de carpeta y ficheros**<br>
@@ -17,15 +17,15 @@ El nombre de la carpeta (y del archivo de corpus) seguirá el formato utilizando
 [año]-[tema]-[población]-[tipo]-[origen]<br>
 <br>
 Un ejemplo de cómo quedaría el repositorio sería:<br>
-&nbsp;.<br>
-&nbsp;├── 2001-social-no_nativos-chat-foro_inmigracion<br>
-&nbsp;├── 2005-educacion-estudiantes-paralelo-webapp<br>
-&nbsp;├── 2024-legal-funcionarios-ocr-boe<br>
-&nbsp;│         ├── 2024-legal-funcionarios-ocr-boe.txt<br>
-&nbsp;│         └── README.txt<br>
-&nbsp;└── 2025-salud-adultos_mayores-monolingue-ministerio<br>
-&nbsp;          ├── 2025-salud-adultos_mayores-monolingue-ministerio.txt<br>
-&nbsp;          └── README.txt<br>
+    .<br>
+    ├── 2001-social-no_nativos-chat-foro_inmigracion<br>
+    ├── 2005-educacion-estudiantes-paralelo-webapp<br>
+    ├── 2024-legal-funcionarios-ocr-boe<br>
+    │         ├── 2024-legal-funcionarios-ocr-boe.txt<br>
+    │         └── README.txt<br>
+    └── 2025-salud-adultos_mayores-monolingue-ministerio<br>
+              ├── 2025-salud-adultos_mayores-monolingue-ministerio.txt<br>
+              └── README.txt<br>
 <br>
 
 <br>
@@ -33,22 +33,22 @@ Un ejemplo de cómo quedaría el repositorio sería:<br>
 <br>
 Dentro de cada carpeta se incluirá siempre un README.txt en texto plano. La idea es que este archivo documente los metadatos esenciales para facilitar el registro, seguimiento y reutilización del corpus.<br>
 Los campos obligatorios son:<br>
-&nbsp;**1º) Origen** – Fuente o procedencia del corpus.<br>
-&nbsp;**2º) Descripción** – Breve explicación del contenido o propósito.<br>
-&nbsp;**3º) Tema** – Área temática principal.<br>
-&nbsp;**4º) Población** – Público objetivo.<br>
-&nbsp;**5º) Tipo** – Naturaleza o formato del corpus.<br>
-&nbsp;**6º) Creación** – Fecha y método de creación/recolección.<br>
-&nbsp;**7º) Validado** – Método de validación de calidad (manual, automático o mixto).<br>
+    **1º) Origen** – Fuente o procedencia del corpus.<br>
+    **2º) Descripción** – Breve explicación del contenido o propósito.<br>
+    **3º) Tema** – Área temática principal.<br>
+    **4º) Población** – Público objetivo.<br>
+    **5º) Tipo** – Naturaleza o formato del corpus.<br>
+    **6º) Creación** – Fecha y método de creación/recolección.<br>
+    **7º) Validado** – Método de validación de calidad (manual, automático o mixto).<br>
 <br>
 Un ejemplo de un fichero de metadatos sería:<br>
-&nbsp;_Origen: Web scraping de páginas de la administración pública (sitio X)<br>
-&nbsp;Descripción: Comunicados oficiales simplificados durante una campaña de salud pública.<br>
-&nbsp;Tema: Salud<br>
-&nbsp;Población: Ciudadanos generales<br>
-&nbsp;Tipo: Monolingüe texto plano<br>
-&nbsp;Creación: 2025-06-12 – Web scraping con script Python (BeautifulSoup)<br>
-&nbsp;Validado: Mixto – validación automática y comprobación manual de 200 muestras_<br>
+    _Origen: Web scraping de páginas de la administración pública (sitio X)<br>
+    Descripción: Comunicados oficiales simplificados durante una campaña de salud pública.<br>
+    Tema: Salud<br>
+    Población: Ciudadanos generales<br>
+    Tipo: Monolingüe texto plano<br>
+    Creación: 2025-06-12 – Web scraping con script Python (BeautifulSoup)<br>
+    Validado: Mixto – validación automática y comprobación manual de 200 muestras_<br>
 <br>
 <br>
 **4. Ubicación**<br>
