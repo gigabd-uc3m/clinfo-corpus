@@ -6,7 +6,7 @@ Cada corpus debe almacenarse en una carpeta independiente. Dentro de esa carpeta
  I) El fichero de texto con el contenido del corpus.<br>
  II) El fichero README con los metadatos del corpus.<br>
 Un ejemplo de cómo quedaría el repositorio sería:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;└── 2024-legal-funcionarios-ocr-boe<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── 2024-legal-funcionarios-ocr-boe.txt<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── README.txt<br>
@@ -17,7 +17,7 @@ El nombre de la carpeta (y del archivo de corpus) seguirá el formato utilizando
 [año]-[tema]-[población]-[tipo]-[origen]<br>
 <br>
 Un ejemplo de cómo quedaría el repositorio sería:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;├── 2001-social-no_nativos-chat-foro_inmigracion<br>
 &nbsp;&nbsp;&nbsp;&nbsp;├── 2005-educacion-estudiantes-paralelo-webapp<br>
 &nbsp;&nbsp;&nbsp;&nbsp;├── 2024-legal-funcionarios-ocr-boe<br>
@@ -29,7 +29,7 @@ Un ejemplo de cómo quedaría el repositorio sería:<br>
 <br>
 
 <br>
-**3. Fichero de metadatos (README.txt)**<br>
+**3. Fichero de metadatos (README.txt)** <br>
 <br>
 Dentro de cada carpeta se incluirá siempre un README.txt en texto plano. La idea es que este archivo documente los metadatos esenciales para facilitar el registro, seguimiento y reutilización del corpus.<br>
 Los campos obligatorios son:<br>
