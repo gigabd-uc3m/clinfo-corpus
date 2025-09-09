@@ -1,7 +1,7 @@
 # clinfo-corpus
 La finalidad de este documento es facilitar el mantenimiento conjunto del repositorio GitHub y de la carpeta en Google Drive, hemos definido un estándar común de almacenamiento y nombrado de los corpus y sus metadatos.
 
-**1. Estructura básica**
+**1. Estructura básica** \n
 Cada corpus debe almacenarse en una carpeta independiente. Dentro de esa carpeta habrá siempre:
  I) El fichero de texto con el contenido del corpus.
  II) El fichero README con los metadatos del corpus.
